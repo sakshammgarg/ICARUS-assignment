@@ -1,4 +1,4 @@
-# DESIGN.md – Sensor Filtering (MA + Kalman)
+# Sensor Filtering (MA + Kalman)
 
 ## 1. Overview
 
